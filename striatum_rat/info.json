@@ -1,0 +1,8 @@
+{
+    "dtype": "int16",
+    "sample_rate": 20000.0,
+    "shape": [
+        -1,
+        4
+    ]
+}
